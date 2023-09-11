@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins';
+}
+header{
+    height: 80vh;
+    background-color: black;
+    color: white;
+    background-image: url(https://img.freepik.com/free-photo/smiling-students-studying-together-table_23-2147850724.jpg?w=1380&t=st=1694164033~exp=1694164633~hmac=772c8aee007d693211274a22b9ef0afa1608a2a6d3bcc83eec83acb56ca3e2c4);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+section{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+display: flex;
+align-items: center;
+
+}
+.header-content{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.header-quote{
+    /* background-color: orange; */
+    color: black;
+    padding: 5px;
+    /* font-weight: bold; */
+    width: fit-content;
+    font-size: 25px;
+    margin-left: 37%;
+    
+}
+
+.header-title{
+    font-size: 180px;
+    color: black;
+    font-family: 'Times New Roman';
+    margin-top: -50px;
+    margin-left: 10%;
+    margin-bottom: 0%;
+
+}
+
+
+.subtitle{
+    color: black;
+}
+button{
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: red;
+    color: aliceblue;
+    font-size: 18px;
+}
